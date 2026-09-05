@@ -5,7 +5,7 @@ Made With ❤️ by **Phantomware**
 > **Developer:** Wrenchiz  
 > **Version:** v0.1.4-beta  
 > **Engine:** HTML5 Canvas + Socket.io  
-> **Live Open Beta:** [https://flappy-duel.onrender.com/](https://flappy-duel.onrender.com/)  
+> **Play Open Beta:** [https://flappy-duel.onrender.com/](https://flappy-duel.onrender.com/)  
 > **Full Changelog:** [CHANGELOG](https://github.com/Phantomware-HQ/Flappy-Duel-Changelog/releases)
 
 ---
