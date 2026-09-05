@@ -41,8 +41,7 @@ Made With ❤️ by **Phantomware**
 
 ## ⚖️ License
 
-This project is licensed under a **Proprietary Source-Available License**.  
-Source code is made publicly visible solely for transparency, security auditing, and verification purposes.  
-See the [LICENSE](LICENSE.md) file for full terms and conditions.
+This project is protected by copyright law.  
+Click [**HERE**](LICENSE.md) to view the full license terms.
 
 © 2026 **Phantomware**. All rights reserved.
