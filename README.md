@@ -1,9 +1,9 @@
 <img src="art/Flappy_Duel.png" width="400" alt="FlappyDuelLogo">
 
-# Flappy Duel (v0.1.4-beta)
+# Flappy Duel (v0.4.4-beta)
 Made With ❤️ by **Phantomware**
 > **Developer:** Wrenchiz  
-> **Version:** v0.1.4-beta  
+> **Version:** v0.4.4-beta  
 > **Engine:** HTML5 Canvas + Socket.io  
 > **Live Open Beta:** [https://flappy-duel.onrender.com/](https://flappy-duel.onrender.com/)  
 
